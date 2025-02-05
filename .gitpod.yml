@@ -6,11 +6,11 @@ tasks:
     init: |
       cargo build
 
-      # workaround for https://github.com/gitpod-io/gitpod/issues/524
-      find target -exec stat --format='%.Y %n' {} + > /workspace/.ts
-    command: |
-      # workaround for https://github.com/gitpod-io/gitpod/issues/524
-      while read -r ts file; do touch -d "@${ts}" "${file}"; done < /workspace/.ts
+    #   # workaround for https://github.com/gitpod-io/gitpod/issues/524
+    #   find target -exec stat --format='%.Y %n' {} + > /workspace/.ts
+    # command: |
+    #   # workaround for https://github.com/gitpod-io/gitpod/issues/524
+    #   while read -r ts file; do touch -d "@${ts}" "${file}"; done < /workspace/.ts
 
   - name: Setup BotConfig and run program
     before: |
