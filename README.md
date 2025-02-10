@@ -6,9 +6,19 @@ Community contribuitions are welcome! 🧡 Please create an issue and open a Git
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/optimus)
 
+#### ☁ Open in the Cloud 
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode)](https://vscode.dev/github/gitpod-io/optimus)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/gitpod-io/optimus)
+[![Open in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/embed/react-markdown-preview-co1mj?fontsize=14&hidenavigation=1&theme=dark)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/optimus)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/gitpod-io/optimus?template=node&title=ngx-vcard%20Example)
+[![Open in Repl.it](https://replit.com/badge/github/withastro/astro)](https://replit.com/github/gitpod-io/optimus)
+[![Open in Glitch](https://img.shields.io/badge/Open%20in-Glitch-blue?logo=glitch)](https://glitch.com/edit/#!/import/github/gitpod-io/optimus)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/gitpod-io/optimus)
+
 ## Contributing
 
-You wanna contribute!? That sounds awesome! Thank you for taking the step to contribute towards this project :)
+You wanna contribute!? That sounds awesome! Thank you for taking the step to contribute towards this project :
 
 ## Getting started
 
